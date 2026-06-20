@@ -10,7 +10,7 @@ function Experience() {
 <p className="mb-3"> {"</>"} </p>
 <h1 className="bg-gradient-to-r capitalize text-xl from-blue-600 to-purple-500 bg-clip-text text-transparent">fronend development</h1>
 <p className="text-base capitalize text-black font-bold">1 year</p>
-<p className="text-base capitalize ">frontend in bluelegal academy</p>
+<p className="text-base capitalize ">frontend in Web Roots</p>
 </div>
   </div>  
 </div>  )

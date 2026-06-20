@@ -12,15 +12,15 @@ function About() {
 <h1 className="text-nowrap text-3xl font-bold select-none">Mohamed Wael</h1>
 <p className="bg-gradient-to-r from-blue-500 select-none to-purple-500 bg-clip-text text-transparent text-xl ">frontend developer</p>
 <div className="flex gap-3 mt-2">
-  <Link href="./CV.docx" download="Mohamed-Wael-CV">  <button className="w-full hover:bg-black hover:text-white text-nowrap cursor-pointer border px-3 rounded-xl">download CV</button>
-</Link>
+  <a href="./mohamed-wael.pdf" download="Mohamed-Wael-CV">  <button className="w-full hover:bg-black hover:text-white text-nowrap cursor-pointer border px-3 rounded-xl">download CV</button>
+</a>
 <Link href="#contact">
   <button className="w-full hover:bg-black hover:text-white cursor-pointer border px-3 rounded-xl">contact me</button>
 </Link>
 </div>
 <div className="flex gap-3 mt-2">
   <Link target='_blank' href="https://github.com/mohamedwael56?tab=repositories" className="w-8 cursor-pointer"><img src="github.png" alt="" /></Link>
-  <Link target='_blank' href="https://www.linkedin.com/in/mohamedwael56/"
+  <Link target='_blank' href="https://www.linkedin.com/in/mohamed-wael-8865b4418/"
   className="w-8 cursor-pointer">
     <img src="linkedin.png" alt="" />
   </Link>
